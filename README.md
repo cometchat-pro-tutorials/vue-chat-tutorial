@@ -8,6 +8,7 @@ This application detailed the step by step guide on how to build a modern group 
 
 Take a look at the screenshot below:
 
+
 <img src="screenshots/screenshot_1.png">
 
 
