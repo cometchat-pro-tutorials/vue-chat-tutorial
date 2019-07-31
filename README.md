@@ -2,7 +2,7 @@
 
 Read the full tutorial here:
 
->> Not yet published
+>> [Click here to view the link](https://www.cometchat.com/tutorials/build-a-vue-chat-app/)
 
 This application detailed the step by step guide on how to build a modern group chat application using Vue.js and CometChat.
 
